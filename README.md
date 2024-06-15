@@ -30,8 +30,6 @@ clash for linux 备份(备份号：202311091510)。
 # 使用须知
 
 - 运行本项目建议使用root用户，或者使用 sudo 提权。
-- 使用过程中如遇到问题，请优先查已有的 [issues](https://github.com/Elegycloud/clash-for-linux-backup/issues)。
-- 在进行issues提交前，请替换提交内容中是敏感信息（例如：订阅地址）。
 - 本项目是基于 [clash（已跑路）](https://github.com/Dreamacro/clash) 、[yacd](https://github.com/haishanh/yacd) 进行的配置整合，关于clash、yacd的详细配置请去原项目查看。
 - 此项目不提供任何订阅信息，请自行准备Clash订阅地址。
 - 运行前请手动更改`.env`文件中的`CLASH_URL`变量值，否则无法正常运行。
@@ -52,7 +50,7 @@ clash for linux 备份(备份号：202311091510)。
 下载项目
 
 ```bash
-$ git clone https://github.com/Elegycloud/clash-for-linux-backup.git
+$ [git clone https://github.com/Elegycloud/clash-for-linux-backup.git](https://github.com/cqlijilong/clash-for-linux.git)
 ```
 
 进入到项目目录，编辑`.env`文件，修改变量`CLASH_URL`的值。
