@@ -50,7 +50,7 @@ clash for linux 备份(备份号：202311091510)。
 下载项目
 
 ```bash
-$ [git clone https://github.com/Elegycloud/clash-for-linux-backup.git](https://github.com/cqlijilong/clash-for-linux.git)
+git clone https://github.com/Elegycloud/clash-for-linux-backup.git
 ```
 
 进入到项目目录，编辑`.env`文件，修改变量`CLASH_URL`的值。
